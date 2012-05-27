@@ -2,7 +2,7 @@ EJB3.1Example
 =============
 
 #
-#   Copyright 2012 Paulo Augusto Dacach Bichara
+#   Copyright 2011 Paulo Augusto Dacach Bichara
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
 #   you may not use this file except in compliance with the License.
